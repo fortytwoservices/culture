@@ -8,9 +8,7 @@ What we are all about, our principles, and what drives us to reach for better re
 ## Culture code
 ### **Mission statement**
 
-!!! important "Mission statement"
-
-    We are Fortytwo, we have the answers, always. If we don’t have them already in our toolbox we will figure it out. Our customers have the questions and use-cases. We want to work as part, and side-by-side with our customers as partners to solve real problems to simplify business with modern technology. We are always genuine and up-front. We are different.
+> We are Fortytwo, we have the answers, always. If we don’t have them already in our toolbox we will figure it out. Our customers have the questions and use-cases. We want to work as part, and side-by-side with our customers as partners to solve real problems to simplify business with modern technology. We are always genuine and up-front. We are different.
 
 ### **How we make decisions**
 
@@ -76,4 +74,4 @@ If it is agreed that a change is needed, we will be helpful in finding work else
 
 At Fortytwo, job titles are not tied to salary or level of access within the organization. Instead, they are a way to recognize and honor competence and expertise both internally and externally. There is no one person or leadership that has the authority to decide who should hold a particular title, such as "Cloud Consultant" or "Senior" or "Principal." Instead, the highest ranking consultants in the company are responsible for determining who should be given a new title. To be eligible for a promotion, a person must receive a vote of approval from at least 60% of their principal peers. 
 
-If you believe that someone deserves a promotion, you can help make it happen by scrambling the Principals for a vote. Our common expectations and definitions of roles and titles should be honored and continuous maintained https://docs.amestofortytwo.com/Internal%20-%20Docs/Internal%20-%20Docs/teams-and-org-structure/ 
+If you believe that someone deserves a promotion, you can help make it happen by scrambling the Principals for a vote. Our common expectations and definitions of roles and titles should be honored and continuous maintained [here](ORGANIZATION.md)
