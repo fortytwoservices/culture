@@ -20,7 +20,7 @@ Agile is how we work at Fortytwo. In a nutshell, we take an iterative and increm
 
 ## Basic Fortytwo Agile Guidelines
 
-We don't have a one specific or hard-set Agile way of working at Fortytwo. What we have is a common understanding of and respect for our inherent differences, which means we all work and interact differently.
+We don't have a one specific or hard-set Agile way of working at Fortytwo. What we have is a common understanding of and respect for our inherent differences, which means we all work and interact differently -- and that's more than all right! 
 
 To put it simply, we value the results of our work more than how we got to achieving them. 
 
@@ -99,4 +99,4 @@ The delivery team's competence and size at all times depends on what occurs in t
 ## Platform engineering team "as a service"
 Our Platform Team enables and assists with necessary infrastructure elements that the development teams need, continuously, efficiently, self-service and within best practice and compliance.
 
-![](media/agile/platform_team.png)  
+![](media/agile/platform_team.png)
