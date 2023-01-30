@@ -12,10 +12,11 @@ To ensure clear communication and alignment, here is a description of the expect
 All engineers are expected to know, and/or make sure to train for the following knowledge as a minimum:
 
 * Basic Git knowledge.
+* Basic GitHub knowledge.
 * Basic Azure DevOps understanding and usage.
 * Basic Markdown syntax and understanding for documentation.
 * Basic SCRUM knowledge.
-* Basic knowledge with Powershell or C#
+* Basic knowledge of scripting and programming languages
 
 ### Principal Cloud Engineer Expectations
 
