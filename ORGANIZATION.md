@@ -29,7 +29,7 @@ We expect every Principal Engineer to have the following knowledge and behaviour
 * Abilites to see business opportunities for Fortytwo and execute as needed.
 * Make right decisions and take ownership for the good of Fortytwo as a company.
 * Extra responsibility to take care of people "around" them.
-* Self driven in pritty much everything.
+* Self driven in pretty much everything.
 * Microsoft Certified on a high level.
 * Extensive interest and passion around sharing skills with others.
 * Innovate and drive adoption internally to new technologies and offerings.
