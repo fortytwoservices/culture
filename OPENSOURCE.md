@@ -4,10 +4,8 @@ We value honesty, transparency and sharing. These values are all part of the Ope
 
 1. If our code has no sensitive information (of any sort), there are no reason for it to be private.
 2. We strive to promote and contribute to the Open Source projects that we use.
-3. Amesto Fortytwo encourages our employees to get involved in Open Source, either by contributing code or time.
+3. Fortytwo encourages our employees to get involved in Open Source, either by contributing code or time.
 
 ## Active contributions
 
 >This is a work in progress, more information will be added soon.
-
-

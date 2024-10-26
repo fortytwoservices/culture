@@ -12,6 +12,14 @@ What we are all about, our principles, and what drives us to reach for better re
 
 > We are Fortytwo, we have the answers, always. If we don’t have them already in our toolbox we will figure it out. Our customers have the questions and use-cases. We want to work as part, and side-by-side with our customers as partners to solve real problems to simplify business with modern technology. We are always genuine and up-front. We are different.
 
+**Code beats consultants** We distil our expertise into code, enabling advanced cloud adoption with precision, in a fraction of the time. This also enables the customers to maintain their solutions in code.
+
+**Messaging beats tickets** We are there with expert knowledge when the customer needs us. Working with our customers based on agile principles.
+
+**Expert craftmanship beats generalists** We are best in what we do, when we Advise, deliver services and create products.
+
+**Our customers are our ambassadors and our best sales agents** We go above and beyond for our customers.
+
 ### How we make decisions
 
 Each employee is expected to seek advice and perspective as appropriate. “Use good judgment” is our core concept.
@@ -22,7 +30,7 @@ Each employee is expected to seek advice and perspective as appropriate. “Use 
 * Over 5 KNOK seek peer review.
 * Over 50-100 KNOK, all employees with peer review \_can\_ make decision by themselves but good practise is to have a manager involved.
 
-At Amesto Fortytwo, we encourage our employees to be independent decision-makers and to only consult their manager when they are unsure of the best course of action. To support this, we believe that it is the leader's role to provide clear context so that others have the necessary information to make informed and generally sound decisions.
+At Fortytwo, we encourage our employees to be independent decision-makers and to only consult their manager when they are unsure of the best course of action. To support this, we believe that it is the leader's role to provide clear context so that others have the necessary information to make informed and generally sound decisions.
 
 ### How we give feedback
 
