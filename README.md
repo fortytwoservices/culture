@@ -20,6 +20,8 @@ What we are all about, our principles, and what drives us to reach for better re
 
 **Our customers are our ambassadors and our best sales agents** We go above and beyond for our customers.
 
+![Fortytwo.io Our Values](./media/our_values.png)
+
 ### How we make decisions
 
 Each employee is expected to seek advice and perspective as appropriate. “Use good judgment” is our core concept.
